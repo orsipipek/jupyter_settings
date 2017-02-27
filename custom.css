@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800)
+@import url(http://fonts.googleapis.com/css?family=Lato|Source+Code+Pro|Montserrat:400,700);
+
+#notebook-container {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+}*/
+
+div.text_cell_render {
+    font-family: 'Lora', 'Times New Roman', serif;
+    font-size: 14pt;
+    line-height: 145%; /* added for some line spacing of text. */
+}
+
+div.text_cell_render h1,
+div.text_cell_render h2,
+div.text_cell_render h3,
+div.text_cell_render h4,
+div.text_cell_render h5,
+div.text_cell_render h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  line-height: 145%;
+}
+
+div.text_cell_render h1 {
+  font-size: 4rem;
+}
+div.text_cell_render h2 {
+  font-size: 3.5rem;
+}
+
+
+
+/*h1 { font-size: 4.5rem; }*/
+/*h1 { font-size: 200px; }
+h2 { font-size: 4rem; }
+h3 { font-size: 3.5rem; }
+h4 { font-size: 3rem; }
+h5 { font-size: 2.5rem; }
+h6 { font-size: 2rem; }*/
+
+/*
+a {
+  color: #333333;
+}
+a:hover,
+a:focus {
+  color: #0085A1;
+}
+a img:hover,
+a img:focus {
+  cursor: zoom-in;
+}
+blockquote {
+  color: #777777;
+  font-style: italic;
+}*/
+/*p {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 20px;
+  color: #333333;
+}
+.CodeMirror pre {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1em;
+}*/
+/*div.input_area {
+    border: none;
+    background: whitesmoke;
+}*/
